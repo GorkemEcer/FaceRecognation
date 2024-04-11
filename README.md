@@ -26,7 +26,9 @@ AktarmasizCNNTrain.ipynb
 CnnInceptionTrain.ipynb
 
 ## Method-3 Resnet (Train - Test)
+
 resnetcnn.ipynb
+
 ---
 
 By making run all call all model's test outputs can be show. In additionally all three methods' test sections divided appropriately. If you want to test on a different image, it can be added to the Image Sample folder.
